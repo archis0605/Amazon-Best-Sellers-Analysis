@@ -13,6 +13,9 @@ As a data analyst at Amazon and our manager has asked us to analyze some data. S
 
 I have done this project in Microsoft Power BI.
 
+## Dashboard:
+![amazon dashboard](https://github.com/archis0605/Amazon-Best-Sellers-Analysis/assets/116663553/03051468-87dd-4daa-928a-edd8fd299895)
+
 ## Insights:
 👉 "The Fault in Our Stars" emerges as the book with the highest number of reviews, indicating its significant popularity among readers.
 
